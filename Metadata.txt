@@ -1,0 +1,10 @@
+@RELATION XXXXX
+
+@ATTRIBUTE state {Tamil_Nadu}
+@ATTRIBUTE year REAL
+@ATTRIBUTE crop {Apple,Arecanut,Arhar/Tur,Ash_Gourd,Bajra,Banana,Beans_&_Mutter(Vegetable),Beet_Root,Ber,Bhindi,Bitter_Gourd,Black_pepper,Bottle_Gourd,Brinjal,Cabbage,Cardamom,Carrot,Cashewnut,Castor_seed,Cauliflower,Citrus_Fruit,Coconut,Coriander,Cotton(lint),Cucumber,Drum_Stick,Dry_chillies,Dry_ginger,Garlic,Gram,Grapes,Groundnut,Guar_seed,Horse-gram,Jack_Fruit,Jowar,Korra,Lab-Lab,Litchi,Maize,Mango,Mesta,Moong(Green_Gram),Onion,Orange,Other_Cereals_&_Millets,Other_Citrus_Fruit,Other_Fresh_Fruits,Other_Kharif_pulses,Other_Vegetables,Papaya,Peach,Pear,Pineapple,Plums,Pome_Fruit,Pome_Granet,Potato,Pulses_total,Pump_Kin,Ragi,Rapeseed_&Mustard,Redish,Ribed_Guard,Rice,Samai,Sannhamp,Sesamum,Small_millets,Snak_Guard,Sugarcane,Sunflower,Sweet_potato,Tapioca,Tobacco,Tomato,Total_foodgrain,Turmeric,Turnip,Urad,Varagu,Water_Melon,Wheat,Yam}
+@ATTRIBUTE area REAL
+@ATTRIBUTE rainfall(in_mm) REAL
+@ATTRIBUTE production(in_tones) Numeric
+
+@DATA
